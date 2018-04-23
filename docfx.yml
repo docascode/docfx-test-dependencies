@@ -1,3 +1,0 @@
-name: docfx-restore-parent
-dependencies:
-  restore-child: https://github.com/docascode/docfx.restore.test#child
