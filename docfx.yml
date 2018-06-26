@@ -1,3 +1,4 @@
-name: docfx-restore-parent
-dependencies:
-  restore-child: https://github.com/docascode/docfx-test-dependencies#child
+name: docfx-git-test
+content: README.md
+contributor:
+  userProfileCachePath: user_profile.json
