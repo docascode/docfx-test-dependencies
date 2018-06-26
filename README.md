@@ -1,2 +1,2 @@
-# docfx.restore.test
-a docfx testing repo
+# git-test
+This branch is used as test data for DocFX git related feature.
