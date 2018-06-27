@@ -1,4 +1,4 @@
 name: docfx-git-test
 content: README.md
-contributor:
+contribution:
   userProfileCachePath: user_profile.json
