@@ -1,4 +1,5 @@
 name: docfx-git-test
-content: README.md
+content: "*.md"
 contribution:
   userProfileCachePath: user_profile.json
+  gitCommitsHistoryPath: build_history.json
