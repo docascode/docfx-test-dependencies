@@ -2,4 +2,4 @@ name: docfx-git-test
 content: "*.md"
 contribution:
   userProfileCachePath: user_profile.json
-  gitCommitsHistoryPath: build_history.json
+  gitCommitsTimePath: build_history.json
