@@ -1,5 +1,5 @@
 name: docfx-git-test
 content: "*.md"
 contribution:
-  userProfileCachePath: user_profile.json
-  gitCommitsTimePath: build_history.json
+  userProfileCache: user_profile.json
+  gitCommitsTime: build_history.json
