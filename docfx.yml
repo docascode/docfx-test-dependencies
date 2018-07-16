@@ -1,5 +1,5 @@
 name: docfx-git-test
 content: "*.md"
 contribution:
-  userProfileCacheUrl: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/user_profile.json
-  gitCommitsTimeUrl: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/build_history.json
+  userProfileCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/user_profile.json
+  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/build_history.json
