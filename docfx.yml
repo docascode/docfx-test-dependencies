@@ -2,5 +2,5 @@ name: docfx-git-test
 content: "*.md"
 contribution:
   userProfileCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-4/user_profile.json
-  repository: https://gitlab.com/test-org/test-repo
+  repository: test-org/test-repo
   branch: contribution
