@@ -1,0 +1,3 @@
+[submodule "docfx-test-submodule"]
+	path = docfx-test-submodule
+	url = https://github.com/docascode/docfx-test-submodule
