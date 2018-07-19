@@ -1,0 +1,3 @@
+dependencies:
+  docfx-test-dependencies1: https://github.com/docascode/docfx-test-dependencies
+  docfx-test-dependencies2: https://github.com/docascode/docfx-test-dependencies
