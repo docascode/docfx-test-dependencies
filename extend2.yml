@@ -1,1 +1,2 @@
-content: b.md
+contribution:
+  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-3/build_history.json
