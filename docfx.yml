@@ -1,3 +1,5 @@
 content: "README.md"
 contribution:
   showContributors: false
+  userProfileCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/user_profile.json
+  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-5/build_history.json
