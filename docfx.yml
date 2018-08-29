@@ -1,7 +1,7 @@
 name: docfx-git-test
 content: "*.md"
 contribution:
-  userProfileCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-3/user_profile.json
-  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-3/build_history.json
+  userProfileCache: user_profile.json
+  gitCommitsTime: build_history.json
 rules:
   resolve-author-failed: warning
