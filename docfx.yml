@@ -1,4 +1,5 @@
 content: README.md
+gitHub:
+  userCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/github-user-cache-url/user_profile.json
 contribution:
-  userProfileCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-profile-time-url/user_profile.json
-  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-profile-time-url/build_history.json
+  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/github-user-cache-url/build_history.json
