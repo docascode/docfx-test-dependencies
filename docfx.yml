@@ -1,7 +1,6 @@
 content: README.md
-contribution:
-  resolveGitHubUsers: true
 gitHub:
   userCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/github-user-cache-url/user_profile.json
 contribution:
+  resolveGitHubUsers: true
   gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/github-user-cache-url/build_history.json
