@@ -11,17 +11,20 @@
     {
       "name": "Renze Yu",
       "login": "superyyrrzz",
-      "id": "3831744",
-      "email_address": "superyyrrzz@gmail.com",
-      "user_emails": "renzeyu@microsoft.com;superyyrrzz;superyyrrzz@gmail.com"
+      "id": 3831744,
+      "emails": [
+        "renzeyu@microsoft.com",
+        "superyyrrzz@gmail.com"
+      ]
     },
     {
-      "profile_url": "https://github.com/yufeih",
-      "display_name": "Yufei Huang",
-      "name": "yufeih",
-      "id": "511355",
-      "email_address": "yufeih@live.com",
-      "user_emails": "yufeih;yufeih@users.noreply.github.com;yufeih@live.com"
+      "name": "Yufei Huang",
+      "login": "yufeih",
+      "id": 511355,
+      "user_emails": [
+        "yufeih@users.noreply.github.com",
+        "yufeih@live.com"
+      ]
     }
   ]
 }
