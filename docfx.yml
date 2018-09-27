@@ -3,4 +3,4 @@ gitHub:
   userCache: user_profile.json
   resolveUsers: true
 contribution:
-  gitCommitsTime: build_history.json
+  showContributors: false
