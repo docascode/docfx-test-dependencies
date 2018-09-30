@@ -4,7 +4,7 @@
       "name": "Osmond Jiang",
       "login": "OsmondJiang",
       "id": 19990166,
-      "expiry":"2099-01-01T00:00:00.00000Z"},
+      "expiry":"2099-01-01T00:00:00.00000Z",
       "emails": [
         "xinjiang@microsoft.com"
       ]
@@ -13,7 +13,7 @@
       "name": "Renze Yu",
       "login": "superyyrrzz",
       "id": 3831744,
-      "expiry":"2099-01-01T00:00:00.00000Z"},
+      "expiry":"2099-01-01T00:00:00.00000Z",
       "emails": [
         "renzeyu@microsoft.com",
         "superyyrrzz@gmail.com"
@@ -23,7 +23,7 @@
       "name": "Yufei Huang",
       "login": "yufeih",
       "id": 511355,
-      "expiry":"2099-01-01T00:00:00.00000Z"},
+      "expiry":"2099-01-01T00:00:00.00000Z",
       "emails": [
         "yufeih@users.noreply.github.com",
         "yufeih@live.com"
