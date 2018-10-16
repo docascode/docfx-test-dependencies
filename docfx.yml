@@ -1,4 +1,4 @@
-content: README.md
+content: contributors.md
 gitHub:
   userCache: user_profile.json
   resolveUsers: true
