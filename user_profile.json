@@ -1,6 +1,14 @@
 {
   "users": [
     {
+      "name": "LIU Mingwei",
+      "login": "mingwli",
+      "id": 42199316,
+      "emails": [
+        "mingwli@users.noreply.github.com"
+      ]
+    },
+    {
       "name": "Osmond Jiang",
       "login": "OsmondJiang",
       "id": 19990166,
