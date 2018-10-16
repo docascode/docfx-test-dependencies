@@ -1,1 +1,1 @@
-b.md
+[link to b](a.md)
