@@ -1,2 +1,3 @@
-contribution:
-  gitCommitsTime: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-3/build_history.json
+github:
+  userCache: https://raw.githubusercontent.com/docascode/docfx-test-dependencies/git-test-3/user_profile.json
+  resolveUsers: true
