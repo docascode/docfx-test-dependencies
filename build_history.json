@@ -1,3 +1,5 @@
-{ "commits": [
-  { "sha": "6547e91b51bb7cd49d8fbf71f7c61d14f6a49937", "built_at": "2018-01-01" }
-]
+{ "commits":
+  [
+    { "sha": "6547e91b51bb7cd49d8fbf71f7c61d14f6a49937", "built_at": "2018-01-01" }
+  ]
+} 
