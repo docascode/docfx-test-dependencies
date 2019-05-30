@@ -1,1 +1,9 @@
-
+{
+      "references":[{
+          "uid": "System.String",
+          "name": "String",
+          "fullName": "System.String",
+          "href": "https://docs.microsoft.com/en-us/dotnet/api/system.string",
+          "nameWithType": "System.String"
+      }]
+}
